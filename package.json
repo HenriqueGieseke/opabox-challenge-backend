@@ -1,5 +1,5 @@
 {
-  "name": "opabox-challenge",
+  "name": "opabox-challenge-backend",
   "version": "1.0.0",
   "description": "Challenge for Full Stack developer.",
   "main": "index.js",
