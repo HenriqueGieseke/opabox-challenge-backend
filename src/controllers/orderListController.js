@@ -1,4 +1,4 @@
-const orderListController = async (req, res) => {
+const orderListController = (req, res) => {
   const list = req.body;
 
   const orderedSalaN = list.listas.salaN.sort((a, b) => a - b);
