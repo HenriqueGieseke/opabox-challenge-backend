@@ -6,6 +6,6 @@ const router = express.Router();
 
 router.post('/ordenaLista', orderListController);
 
-router.get('/interlace?', interlace);
+router.post('/interlace?', interlace);
 
 export { router as appRoutes };
