@@ -45,7 +45,7 @@ Retorna as listas em ordem alfabética e crescente.
  salaN: [ 1, 5, 7, 8 ],
  salaS: [ “a”, “x”, “n” ]
  }
-}
+
 ```
 
 <strong>Exemplo de retorno:</strong>
@@ -56,7 +56,7 @@ Retorna as listas em ordem alfabética e crescente.
  salaN: [ 1, 5, 7, 8 ],
  salaS: [ “a”, “n”, “x” ]
  }
-}
+
 ```
 
 <strong>/interlace?</strong>
