@@ -44,7 +44,7 @@ Retorna as listas em ordem alfabética e crescente.
  listas: {
  salaN: [ 1, 5, 7, 8 ],
  salaS: [ “a”, “x”, “n” ]
- }
+}
 
 ```
 
@@ -55,7 +55,7 @@ Retorna as listas em ordem alfabética e crescente.
  listas: {
  salaN: [ 1, 5, 7, 8 ],
  salaS: [ “a”, “n”, “x” ]
- }
+}
 
 ```
 
